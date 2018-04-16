@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\40152c805f88475ea8b3b866e05a1dc6684594b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a8fc97a173db91bf719e2189a82fbc4c0e5e288\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\35add324f4fe2f1623a9e71aee06f12660cc3458\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_d30fd49ffabb9b70ceeccfbe3a786942c0ef13b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\57b2ee00cb67399b6e39eab43b9f156faca5c4eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_730bede88dca0ca0dbfd11daae6cb55ec3354e0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\1a013ef909105a8e08828e894eee1de4f50cbcff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc5387c73622da5515b790e28a327b23b563cdd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\40152c805f88475ea8b3b866e05a1dc6684594b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_1a8fc97a173db91bf719e2189a82fbc4c0e5e288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\0fe00cb66d207d158dbaf0ef1ebc202afc6f014b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_ad47a4dcb3a0c28efc91a12cf20c589fb8bf24fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\c39fb3eb7e3f493d9e67cc1103f3ec3ab5f24336\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_16afba9738eb35de3b2112bd78d90f04505c293a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\4266eac528d415ff616b1af750b8496d23122135\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_574e5552dcc5e443bf993cd5bc69843e619078aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\ffa50b1e601ea2e63a2a34653c6bc4e786a588cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f180c1617ba2ce158b0114f7287642dcc3d1342\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\5b1f5ee1dd2795fafac999098a60b2bab4684f0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_bd7604554315cda87723eb2c21e110ab2cb0bd48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\3eb120a7ace938300a474cf150e9ee9d6ebd01c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_ac8c4ea92003cf22cc163085b25efc744ebd876c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\5d451a354a42fd0745bff7c7d959b15010a29b34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0dbb5da2939d906fd6e043c16a336721ec92135\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\ffa50b1e601ea2e63a2a34653c6bc4e786a588cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_3f180c1617ba2ce158b0114f7287642dcc3d1342.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\3eb120a7ace938300a474cf150e9ee9d6ebd01c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac8c4ea92003cf22cc163085b25efc744ebd876c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\5d451a354a42fd0745bff7c7d959b15010a29b34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_e0dbb5da2939d906fd6e043c16a336721ec92135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\854f41f69cb37586101f5f01bd04063411215be7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_7dc19ce991f595ad36b3653dd066459ae5ef3172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\10274f14e1ff96b96000bad11725a8bc9e46551b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_0123d5992cf0e1cce43db538cfc1ccd34414a32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\add3f09b2aff84d361aa553bae8909698632a051\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_70af63201859a66cc877ed48cfe0a5320c1f900b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\9c98adca17ae45f8d3080c63744fe8d6944a84c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_1579f659b57a358e0ffe6826d47771f21a886c4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\854f41f69cb37586101f5f01bd04063411215be7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dc19ce991f595ad36b3653dd066459ae5ef3172\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\0fc86bdf3392884f2760b192404414776d6d069b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_3aad3487f7f0d773adc784796fc4469722d2212f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\10274f14e1ff96b96000bad11725a8bc9e46551b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0123d5992cf0e1cce43db538cfc1ccd34414a32d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\1a013ef909105a8e08828e894eee1de4f50cbcff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_fc5387c73622da5515b790e28a327b23b563cdd7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73edc74fc13803accdabce945c941bae47d1ba0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\acab235861a904dc5009c3365fa8e867aab828fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_a186f328f380ed99b4835bf00d1254c459e0d60c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\107804f9dba2de690f660827b95588b878d5e465\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a02ad208da7bffa009e744636c4a36a35d674205\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\ff0bd3615c5328e572be397bebc0be54b35080d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_6c0ccd9d5397de54f662c479abf69c91751b9afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\107804f9dba2de690f660827b95588b878d5e465\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_a02ad208da7bffa009e744636c4a36a35d674205.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\ff0bd3615c5328e572be397bebc0be54b35080d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c0ccd9d5397de54f662c479abf69c91751b9afb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\8669a19df0fdeddfa2f9a195e6a41ebeb2e96196\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_6666de7fc4785d59e009f793a1cec54831bd7c5f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\8669a19df0fdeddfa2f9a195e6a41ebeb2e96196\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6666de7fc4785d59e009f793a1cec54831bd7c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_d71e7e4cf2a4477f278057ac91e919edad3a319a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\.android\build-cache\911ba95b71e24f5a83a054934c18e0d2d7719c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\classes_ca3983fa0604f9e8d16224a1e89d04837d417045.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ccb777057afdd4f89629ada72a4ae76f44e4587">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a9427af3914711986f1dae900c13d6cdc753a6cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rohith\.android\build-cache\35add324f4fe2f1623a9e71aee06f12660cc3458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d30fd49ffabb9b70ceeccfbe3a786942c0ef13b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rohith\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\rohith\Documents\BusTracking\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_96dbd7aa9fc684268d2f026552fa72911dda8c2e.jar" />
+    </item>
+
+</items>
